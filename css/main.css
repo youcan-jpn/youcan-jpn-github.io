@@ -47,12 +47,19 @@ img { vertical-align: middle; }
 }*/
 .f-container {
     display: flex;
-    justify-content: center;
+    direction: row;
+    justify-content: space-between;
 }
 
 .f-item {
     align-self: center;
 }
+
+#pct {
+    width: 30%;
+    padding-left: 3%;
+}
+
 /*
  * Slideshow
  */
