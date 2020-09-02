@@ -1,90 +1,99 @@
 <!DOCTYPE html>
-<html>
+<html class="no-js" lang="ja">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Progate</title>
-  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Yuta ONO</title>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ropa+Sans">
+    <link rel="stylesheet" href="./css/normalize.css">
+    <link rel="stylesheet" href="./css/main.css">
+    <script src="./js/modernizr.custom.min.js"></script>
+    <script src="./js/jquery-1.10.2.min.js"></script>
+    <script src="./js/jquery-ui-1.10.3.custom.min.js"></script>
+    <script src="./js/main.js"></script>
 </head>
+
 <body>
-  <header>
-    <div class="container">
-      <div class="header-left">
-        <img class="logo" src="https://prog-8.com/images/html/advanced/main_logo.png">
-      </div>
-      <span class="fa fa-bars menu-icon"></span>
-      <div class="header-right">
-        <a href="#">レッスン</a>
-        <a href="#">新規登録</a>
-        <a href="#" class="login">ログイン</a>
-      </div>
-    </div>
-  </header>
-  <div class="top-wrapper">
-    <div class="container">
-      <h1>LEARN TO CODE.<br>LEARN TO BE CREATIVE.</h1>
-      <p>Progateはオンラインプログラミング学習サービスです。<br>初心者にもやさしいスライドとレッスンで、ウェブサービスを作りながらプログラミングを学んでいきましょう。</p>
-      <div class="btn-wrapper">
-        <a href="#" class="btn signup">新規登録はこちら</a>
-        <p>or</p>
-        <a href="#" class="btn facebook"><span class="fa fa-facebook"></span>Facebookで登録</a>
-        <a href="#" class="btn twitter"><span class="fa fa-twitter"></span>Twitterで登録</a>
-      </div>
-    </div>
-  </div>
-  <div class="lesson-wrapper">
-    <div class="container">
-      <div class="heading">
-        <h2>Learn Where to Get Started!</h2>
-      </div>
-      <div class="lessons">
-        <div class="lesson">
-          <div class="lesson-icon">
-            <img src="https://prog-8.com/images/html/advanced/html.png">
-            <p>HTML & CSS</p>
-          </div>
-          <p class="text-contents">ウェブページの作成に使用される言語です。HTMLとCSSを組み合わせることで、静的なページを作り上げることができます。</p>
+    <header class="hero-header">
+        <div class="inner">
+            <div class="slideshow">
+                <img src="./img/slide-1.jpg" alt="" width="1600" height="465">
+                <img src="./img/slide-2.jpg" alt="" width="1600" height="465">
+                <img src="./img/slide-3.jpg" alt="" width="1600" height="465">
+                <img src="./img/slide-4.jpg" alt="" width="1600" height="465">
+            </div>
         </div>
-        <div class="lesson">
-          <div class="lesson-icon">
-            <img src="https://prog-8.com/images/html/advanced/jQuery.png">
-            <p>jQuery</p>
-          </div>
-          <p class="text-contents">素敵な動きを手軽に実装できるJavaScriptライブラリです。 アニメーション効果をつけたり、Ajax（エイジャックス）を使って外部ファイルを読み込んだりと色々なことができます。</p>
+    </header>
+
+    <header class="page-header" role="banner">
+        <div class="inner">
+            <!-- <h1 class="site-logo"><a href="./"><img src="./img/logo.png" alt="Shiftbrain" height="65" width="200"></a></h1> -->
+            <nav class="primary-nav" role="navigation">
+                <ul>
+                    <li><a href="./">PROFILE</a></li>
+                    <li><a href="./">WORKS</a></li>
+                    <li><a href="./">SKILLS</a></li>
+                    <li><a href="./">GALLERY</a></li>
+                    <li><a href="./">BLOG</a></li>
+                </ul>
+            </nav>
         </div>
-        <div class="lesson">
-          <div class="lesson-icon">
-            <img src="https://prog-8.com/images/html/advanced/ruby.png">
-            <p>Ruby</p>
-          </div>
-          <p class="text-contents">オープンソースの動的なプログラミング言語で、 シンプルさと高い生産性を備えています。大きなWebアプリケーションから小さな日用ツールまで、さまざまなソフトウェアを作ることができます。</p>
+    </header>
+
+    <div class='container'>
+        <div class='profile'>
+            <h2>PROFILE</h2>
+            <div class="box-img"><img src='./img/profile_icon.jpg' width="300" height="300" alt="icon"></div>
+            <div class='box-text'>2001年生まれ。2019年3月 神奈川県立横浜翠嵐高校 卒業。<br>現在は東京大学理科一類に所属。工学部計数工学科進学予定。<br>家系ラーメンが好き。</div>
         </div>
-        <div class="lesson">
-          <div class="lesson-icon">
-            <img src="https://prog-8.com/images/html/advanced/php.png">
-            <p>PHP</p>
-          </div>
-          <p class="text-contents">HTMLだけではページの内容を変えることはできません。PHPはHTMLにプログラムを埋め込み、それを可能にします。</p>
+    </div>
+
+    <div class='container'>
+        <div id='buttons'>
+            <h2>WORKS</h2>
+            <div class='inner'>
+                <button>
+                    <span>
+                        WORK1
+                    </span>
+                </button>
+
+                <button>
+                    <span>
+                        WORK2
+                    </span>
+                </button>
+
+                <button>
+                    <span>
+                        WORK3
+                    </span>
+                </button>
+
+                <button>
+                    <span>
+                        WORK4
+                    </span>
+                </button>
+
+            </div>
         </div>
-      </div>
-      <div class="clear"></div>
     </div>
-  </div>
-  <div class="message-wrapper">
-    <div class="container">
-      <div class="heading">
-        <h2>さぁ、あなたもProgateでプログラミングを学んでみませんか?</h2>
-        <h3>Let's learn to code, learn to be creative!</h3>
-      </div>
-      <span class="btn message">さっそく開発する</span>
+
+    <div class='container'>
+        <div class='skills'>
+            <h2>SKILLS</h2>
+            <div class='item'><img src='./img/html.jpg' id='js'><span id='caption'>HTML</span></div>
+            <div class="item"><img src='./img/css.svg'><span id='caption'>CSS</span></div>
+            <div class="item"><img src='./img/javascript.svg'><span id='caption'>JavaScript</span></div>
+            <div class="item"><img src='./img/python.png'><span id='caption'>python</span></div>
+            <div class="item"><img src='./img/aftereffects.svg'><span id='caption'>AfterEffects</span></div>
+            <div class="item"><img src='./img/LaTeX.jpg'><span id='caption'>LaTeX</span></div>
+        </div>
     </div>
-  </div>
-  <footer>
-    <div class="container">
-      <img src="https://prog-8.com/images/html/advanced/footer_logo.png">
-      <p>Learn to Code, Learn to be Creative.</p>
-    </div>
-  </footer>
+
+    <footer class="page-footer" role="contentinfo">
+        <small class="copyright">COPYRIGHT &copy; Yuta ONO  2020</small>
+    </footer>
 </body>
 </html>
