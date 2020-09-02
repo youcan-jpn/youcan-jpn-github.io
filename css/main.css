@@ -13,7 +13,7 @@ img { vertical-align: middle; }
 
 .container {
     background-color: rgb(238, 238, 238);
-    margin: 100px;
+    margin: 50px;
     padding: 60px;
     -webkit-box-shadow: 0 6px 6px rgba(0, 0, 0, 0.25);
             box-shadow: 0 6px 6px rgba(0, 0, 0, 0.25);
