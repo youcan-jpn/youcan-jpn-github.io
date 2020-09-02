@@ -153,8 +153,8 @@ img { vertical-align: middle; }
 #buttons button {
     display: block;
     position: absolute;
-    width: 224px;
-    height: 224px;
+    width: 15vw;
+    height: 15vw;
     overflow: hidden;
     padding: 0 0 35px;
     font-size: 22px;
@@ -164,8 +164,9 @@ img { vertical-align: middle; }
     background-color: #fff;
     border-radius: 112px;
     border: 0px solid #fff;
+    margin: 5vw;
 }
-#buttons button:nth-child(1) {
+/*#buttons button:nth-child(1) {
     left: 10px;
 }
 #buttons button:nth-child(2) {
@@ -176,7 +177,7 @@ img { vertical-align: middle; }
 }
 #buttons button:nth-child(4) {
     left: 772px;
-}
+}*/
 
 .skills {
     display: grid;
