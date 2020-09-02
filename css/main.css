@@ -30,7 +30,8 @@ img { vertical-align: middle; }
 .container .profile {
     top: 165px;
 }
-.box-img,
+
+/*.box-img,
 .box-text {
     display: inline-block;
 }
@@ -43,8 +44,15 @@ img { vertical-align: middle; }
 .box-img {
     padding-left: 10vw;
     padding-bottom: 5vw;
+}*/
+.f-container {
+    display: flex;
+    justify-content: space-around;
 }
 
+.f-item {
+    align-self: center;
+}
 /*
  * Slideshow
  */
