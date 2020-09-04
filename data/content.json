@@ -33,5 +33,117 @@
             "thumb": "img/gallery/thumbnail/_MG_4398-thumb.jpg",
             "large": "img/gallery/_MG_4398.jpg"
         }
+    },
+    {
+        "title": "Hydrangea in rain",
+        "images": {
+            "thumb": "img/gallery/thumbnail/_MG_5314-thumb.jpg",
+            "large": "img/gallery/_MG_5314.jpg"
+        }
+    },
+    {
+        "title": "ume to tori",
+        "images": {
+            "thumb": "img/gallery/thumbnail/_MG_4464-thumb.jpg",
+            "large": "img/gallery/_MG_4464.jpg"
+        }
+    },
+    {
+        "title": "reflection",
+        "images": {
+            "thumb": "img/gallery/thumbnail/IMG_3922-thumb.jpg",
+            "large": "img/gallery/IMG_3922.jpg"
+        }
+    },
+    {
+        "title": "plum with a bird",
+        "images": {
+            "thumb": "img/gallery/thumbnail/_MG_4477-thumb.jpg",
+            "large": "img/gallery/_MG_4477.jpg"
+        }
+    },
+    {
+        "title": "cherry in yoyogi park",
+        "images": {
+            "thumb": "img/gallery/thumbnail/_MG_4594-thumb.jpg",
+            "large": "img/gallery/_MG_4594.jpg"
+        }
+    },
+    {
+        "title": "Ginza no yoru",
+        "images": {
+            "thumb": "img/gallery/thumbnail/IMG_4110-thumb.jpg",
+            "large": "img/gallery/IMG_4110.jpg"
+        }
+    },
+    {
+        "title": "white plum",
+        "images": {
+            "thumb": "img/gallery/thumbnail/_MG_4627-thumb.jpg",
+            "large": "img/gallery/_MG_4627.jpg"
+        }
+    },
+    {
+        "title": "an old bike",
+        "images": {
+            "thumb": "img/gallery/thumbnail/_MG_4681-thumb.jpg",
+            "large": "img/gallery/_MG_4681.jpg"
+        }
+    },
+    {
+        "title": "cherry in the blue sky",
+        "images": {
+            "thumb": "img/gallery/thumbnail/_MG_4646-thumb.jpg",
+            "large": "img/gallery/_MG_4646.jpg"
+        }
+    },
+    {
+        "title": "shinjuku",
+        "images": {
+            "thumb":"img/gallery/thumbnail/IMG_4281-thumb.jpg",
+            "large":"img/gallery/IMG_4281.jpg"
+        }
+    },
+    {
+        "title": "cherry in the sun",
+        "images": {
+            "thumb": "img/gallery/thumbnail/_MG_4651-thumb.jpg",
+            "large": "img/gallery/_MG_4651.jpg"
+        }
+    },
+    {
+        "title": "ajisai",
+        "images": {
+            "thumb": "img/gallery/thumbnail/_MG_5309-thumb.jpg",
+            "large": "img/gallery/_MG_5309.jpg"
+        }
+    },
+    {
+        "title": "stars in ogasawara",
+        "images": {
+            "thumb": "img/gallery/thumbnail/IMG_3241-thumb.jpg",
+            "large": "img/gallery/IMG_3241.jpg"
+        }
+    },
+    {
+        "title": "ao no doukutsu",
+        "images": {
+            "thumb": "img/gallery/thumbnail/IMG_3663-thumb.jpg",
+            "large": "img/gallery/IMG_3663.jpg"
+        }
+    },
+    {
+        "title": "a lost property in the farm",
+        "images": {
+            "thumb": "img/gallery/thumbnail/IMG_3798-thumb.jpg",
+            "large": "img/gallery/IMG_3798.jpg"
+        }
+    },
+    {
+        "title": "ginaza no hikari",
+        "images": {
+            "thumb": "img/gallery/thumbnail/IMG_4127-thumb.jpg",
+            "large": "img/gallery/IMG_4127.jpg"
+        }
     }
 ]
