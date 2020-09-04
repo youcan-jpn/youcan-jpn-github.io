@@ -113,12 +113,6 @@ img { vertical-align: middle; }
     border-bottom: 1px solid rgb(204, 204, 204);
 }
 
-/* Logo */
-.site-logo {
-    float: left;
-    margin-left: -20px;
-}
-
 /* Primary nav */
 .primary-nav {
     float: right;
