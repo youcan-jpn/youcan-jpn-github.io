@@ -36,7 +36,7 @@ $(function () {
         $container.masonry({
             columnWidth: 230,
             gutter: 10,
-            itemSelector: 'gallery-item'
+            itemSelector: '.gallery-item'
         });
 
         $.getJSON('./data/content.json', function(data) {
