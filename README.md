@@ -1,1 +1,1 @@
-# youcan-jpn-github.io
+# https://youcan-jpn.github.io/youcan-jpn-github.io/
