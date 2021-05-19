@@ -79,8 +79,8 @@
     {
         "title": "white plum",
         "images": {
-            "thumb": "https://github.com/youcan-jpn/youcan-jpn-github.io/blob/master/img/gallery/thumbnail/_MG_4627-thumb.jpg?raw=true",
-            "large": "https://github.com/youcan-jpn/youcan-jpn-github.io/blob/master/img/gallery/_MG_4627.jpg?raw=true"
+            "thumb": "img/gallery/thumbnail/_MG_4627-thumb.jpg?raw=true",
+            "large": "img/gallery/_MG_4627.jpg?raw=true"
         }
     },
     {
@@ -144,6 +144,41 @@
         "images": {
             "thumb": "img/gallery/thumbnail/IMG_4127-thumb.jpg",
             "large": "img/gallery/IMG_4127.jpg"
+        }
+    },
+    {
+        "title": "autumn sky",
+        "images": {
+            "thumb": "img/gallery/thumbnail/_MG_5395-thumb.jpg",
+            "large": "img/gallery/_MG_5395.jpg"
+        }
+    },
+    {
+        "title": "twilight sky-tree",
+        "images": {
+            "thumb": "img/gallery/thumbnail/_MG_5404-thumb.jpg",
+            "large": "img/gallery/_MG_5404.jpg"
+        }
+    },
+    {
+        "title": "shibuya sky1",
+        "images": {
+            "thumb": "img/gallery/thumbnail/_MG_5476-thumb.jpg",
+            "large": "img/gallery/_MG_5476.jpg"
+        }
+    },
+    {
+        "title": "shibuya sky2",
+        "images": {
+            "thumb": "img/gallery/thumbnail/_MG_5479-thumb.jpg",
+            "large": "img/gallery/_MG_5479.jpg"
+        }
+    },
+    {
+        "title": "shibuya sky3",
+        "images": {
+            "thumb": "img/gallery/thumbnail/_MG_5487-thumb.jpg",
+            "large": "img/gallery/_MG_5487.jpg"
         }
     }
 ]
